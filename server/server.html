@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="../host/CSInterface.js"></script>
+  <script>
+    if (typeof cep_node !== 'undefined') {
+      /* This script uses cep_node to start the Node.js server located at './server/server.js' */
+      var localServer = cep_node.require(__dirname + '/server/server.js')();
+    } else {
+      var localServer = require('../server/server.js')();
+    }
+  </script>
+  <title>MoCode Node Server Debugging</title>
+</head>
+
+<body></body>
+
+</html>

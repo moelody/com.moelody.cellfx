@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <title>[R18] 我就要色色！</title>
+    </head>
+    <body>
+        <div id="root">
+            <img id="bg" src="../assets/bg.png" onerror="imgError(this)" referrerpolicy="no-referrer" />
+            <iframe id="link" framborder="0" scrolling="no"></iframe>
+        </div>
+
+        <button
+            type="button"
+            id="reload"
+            onclick="javascript:btn_reload()"
+            title="点击「今日手气」有惊喜哦~&#10;&#10;另外加载的图默认隐藏 (。・∀・)ノ&#10;&#10;只有鼠标在扩展中间区域&#10;或者离开今日手气才会显示哦~"
+        >
+            <span>今日手气</span>
+        </button>
+
+        <script type="text/javascript" src="getLinkData.js"></script>
+        <script type="text/javascript" src="main.js"></script>
+    </body>
+</html>

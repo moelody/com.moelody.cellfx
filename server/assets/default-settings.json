@@ -1,0 +1,20 @@
+{
+    "autocompletion": {
+        "enabled": true,
+        "suggestions": [
+            "expression_reference",
+            "script_reference",
+            "mocode_syntax",
+            "ae_links",
+            "snippets"
+        ]
+    },
+    "beautify": {
+        "auto_beautify": false
+    },
+    "font_size": 14,
+    "auto_apply": false,
+    "default_engine": "expression",
+    "disable_project_explorer": false,
+    "open_sidebar_at_launch": false
+}

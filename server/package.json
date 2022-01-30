@@ -1,0 +1,21 @@
+{
+  "name": "com.danim.mocode.server",
+  "scripts": {
+    "postinstall": "npm prune --production"
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "dnm-node-server-cep": "git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+    "mkdirp": "^0.5.1",
+    "nedb": "^1.8.0",
+    "promises-chain": "^1.0.1",
+    "request": "^2.88.0",
+    "rimraf": "^3.0.2",
+    "semicolonize": "^0.1.0",
+    "uglify-js": "^3.6.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.6.4"
+  }
+}

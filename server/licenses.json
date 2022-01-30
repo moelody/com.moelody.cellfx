@@ -1,0 +1,868 @@
+{
+  "accepts@1.3.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\accepts"
+  },
+  "acorn@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ternjs/acorn",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\semicolonize\\node_modules\\acorn"
+  },
+  "adm-zip@0.4.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/cthackers/adm-zip",
+    "publisher": "Nasca Iacob",
+    "email": "sy@another-d-mention.ro",
+    "url": "https://github.com/cthackers",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\adm-zip"
+  },
+  "ajv@6.10.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\ajv"
+  },
+  "array-flatten@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/array-flatten",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\array-flatten"
+  },
+  "asn1@0.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-asn1",
+    "publisher": "Joyent",
+    "url": "joyent.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\asn1"
+  },
+  "assert-plus@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mcavage/node-assert-plus",
+    "publisher": "Mark Cavage",
+    "email": "mcavage@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\assert-plus"
+  },
+  "async@0.2.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "publisher": "Caolan McMahon",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\nedb\\node_modules\\async"
+  },
+  "async@2.6.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "publisher": "Caolan McMahon",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\async"
+  },
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\asynckit"
+  },
+  "aws-sign2@0.7.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/aws-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\aws-sign2"
+  },
+  "aws4@1.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mhart/aws4",
+    "publisher": "Michael Hart",
+    "email": "michael.hart.au@gmail.com",
+    "url": "http://github.com/mhart",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\aws4"
+  },
+  "balanced-match@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\balanced-match"
+  },
+  "bcrypt-pbkdf@1.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/joyent/node-bcrypt-pbkdf",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\bcrypt-pbkdf"
+  },
+  "binary-search-tree@0.2.5": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/louischatriot/node-binary-search-tree",
+    "publisher": "Louis Chatriot",
+    "email": "louis.chatriot@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\binary-search-tree"
+  },
+  "body-parser@1.19.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\body-parser"
+  },
+  "brace-expansion@1.1.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\brace-expansion"
+  },
+  "bytes@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/bytes.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\bytes"
+  },
+  "caseless@0.12.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/caseless",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\caseless"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\combined-stream"
+  },
+  "commander@2.20.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\uglify-js\\node_modules\\commander"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\concat-map"
+  },
+  "content-disposition@0.5.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\content-disposition"
+  },
+  "content-type@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\content-type"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@learnboost.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\cookie-signature"
+  },
+  "cookie@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\cookie"
+  },
+  "core-util-is@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/core-util-is",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\core-util-is"
+  },
+  "dashdash@1.14.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/trentm/node-dashdash",
+    "publisher": "Trent Mick",
+    "email": "trentm@gmail.com",
+    "url": "http://trentm.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\dashdash"
+  },
+  "debug@2.6.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\debug"
+  },
+  "debug@3.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\portfinder\\node_modules\\debug"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\delayed-stream"
+  },
+  "depd@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\depd"
+  },
+  "destroy@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\destroy"
+  },
+  "dnm-node-server-cep@1.1.0": {
+    "licenses": "UNKNOWN",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\dnm-node-server-cep"
+  },
+  "ecc-jsbn@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/quartzjer/ecc-jsbn",
+    "publisher": "Jeremie Miller",
+    "email": "jeremie@jabber.org",
+    "url": "http://jeremie.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\ecc-jsbn"
+  },
+  "ee-first@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\ee-first"
+  },
+  "encodeurl@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/encodeurl",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\encodeurl"
+  },
+  "escape-html@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/escape-html",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\escape-html"
+  },
+  "etag@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\etag"
+  },
+  "express@4.17.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/express",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\express"
+  },
+  "extend@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/justmoon/node-extend",
+    "publisher": "Stefan Thomas",
+    "email": "justmoon@members.fsf.org",
+    "url": "http://www.justmoon.net",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\extend"
+  },
+  "extsprintf@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-extsprintf",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\extsprintf"
+  },
+  "fast-deep-equal@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\fast-deep-equal"
+  },
+  "fast-json-stable-stringify@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\fast-json-stable-stringify"
+  },
+  "finalhandler@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\finalhandler"
+  },
+  "forever-agent@0.6.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/forever-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\forever-agent"
+  },
+  "form-data@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\form-data"
+  },
+  "forwarded@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\forwarded"
+  },
+  "fresh@0.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\fresh"
+  },
+  "fs.realpath@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/fs.realpath",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\fs.realpath"
+  },
+  "getpass@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/arekinath/node-getpass",
+    "publisher": "Alex Wilson",
+    "email": "alex.wilson@joyent.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\getpass"
+  },
+  "glob@7.1.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\glob"
+  },
+  "har-schema@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/ahmadnassri/har-schema",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\har-schema"
+  },
+  "har-validator@5.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ahmadnassri/node-har-validator",
+    "publisher": "Ahmad Nassri",
+    "email": "ahmad@ahmadnassri.com",
+    "url": "https://www.ahmadnassri.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\har-validator"
+  },
+  "http-errors@1.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/http-errors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\http-errors"
+  },
+  "http-signature@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-http-signature",
+    "publisher": "Joyent, Inc",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\http-signature"
+  },
+  "iconv-lite@0.4.24": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "publisher": "Alexander Shtuchkin",
+    "email": "ashtuchkin@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\iconv-lite"
+  },
+  "immediate@3.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/calvinmetcalf/immediate",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\immediate"
+  },
+  "inflight@1.0.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/inflight",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\inflight"
+  },
+  "inherits@2.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\inherits"
+  },
+  "ipaddr.js@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "publisher": "whitequark",
+    "email": "whitequark@whitequark.org",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\ipaddr.js"
+  },
+  "is-typedarray@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hughsk/is-typedarray",
+    "publisher": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\is-typedarray"
+  },
+  "isstream@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/isstream",
+    "publisher": "Rod Vagg",
+    "email": "rod@vagg.org",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\isstream"
+  },
+  "jsbn@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andyperlitch/jsbn",
+    "publisher": "Tom Wu",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\jsbn"
+  },
+  "json-schema-traverse@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\json-schema-traverse"
+  },
+  "json-schema@0.2.3": {
+    "licenses": [
+      "AFLv2.1",
+      "BSD"
+    ],
+    "repository": "https://github.com/kriszyp/json-schema",
+    "publisher": "Kris Zyp",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\json-schema"
+  },
+  "json-stringify-safe@5.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/json-stringify-safe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\json-stringify-safe"
+  },
+  "jsprim@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-jsprim",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\jsprim"
+  },
+  "lie@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/calvinmetcalf/lie",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\lie"
+  },
+  "localforage@1.7.3": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/localForage/localForage",
+    "publisher": "Mozilla",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\localforage"
+  },
+  "lodash@4.17.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\lodash"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\media-typer"
+  },
+  "merge-descriptors@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/merge-descriptors",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\merge-descriptors"
+  },
+  "methods@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\methods"
+  },
+  "mime-db@1.40.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\mime-db"
+  },
+  "mime-types@2.1.24": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\mime-types"
+  },
+  "mime@1.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "publisher": "Robert Kieffer",
+    "email": "robert@broofa.com",
+    "url": "http://github.com/broofa",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\mime"
+  },
+  "minimatch@3.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\minimatch"
+  },
+  "minimist@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/minimist",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\minimist"
+  },
+  "mkdirp@0.5.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-mkdirp",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\mkdirp"
+  },
+  "ms@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\ms"
+  },
+  "ms@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\send\\node_modules\\ms"
+  },
+  "ms@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeit/ms",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\portfinder\\node_modules\\ms"
+  },
+  "nedb@1.8.0": {
+    "licenses": "Custom: LICENSE",
+    "repository": "https://github.com/louischatriot/nedb",
+    "publisher": "Louis Chatriot",
+    "email": "louis.chatriot@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\nedb"
+  },
+  "negotiator@0.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\negotiator"
+  },
+  "oauth-sign@0.9.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/oauth-sign",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\oauth-sign"
+  },
+  "on-finished@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\on-finished"
+  },
+  "once@1.4.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\once"
+  },
+  "parseurl@1.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/parseurl",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\parseurl"
+  },
+  "path-is-absolute@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\path-is-absolute"
+  },
+  "path-to-regexp@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/path-to-regexp",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\path-to-regexp"
+  },
+  "performance-now@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/braveg1rl/performance-now",
+    "publisher": "Braveg1rl",
+    "email": "braveg1rl@outlook.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\performance-now"
+  },
+  "portfinder@1.0.28": {
+    "licenses": "MIT",
+    "repository": "https://github.com/http-party/node-portfinder",
+    "publisher": "Charlie Robbins",
+    "email": "charlie.robbins@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\portfinder"
+  },
+  "promises-chain@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/skokov3812/promises-chain",
+    "publisher": "Roman Skokov",
+    "url": "skokov3812",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\promises-chain"
+  },
+  "proxy-addr@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\proxy-addr"
+  },
+  "psl@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lupomontero/psl",
+    "publisher": "Lupo Montero",
+    "email": "lupomontero@gmail.com",
+    "url": "https://lupomontero.com/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\psl"
+  },
+  "punycode@1.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bestiejs/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\tough-cookie\\node_modules\\punycode"
+  },
+  "punycode@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bestiejs/punycode.js",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\punycode"
+  },
+  "qs@6.5.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\request\\node_modules\\qs"
+  },
+  "qs@6.7.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/ljharb/qs",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\qs"
+  },
+  "range-parser@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "url": "http://tjholowaychuk.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\range-parser"
+  },
+  "raw-body@2.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "publisher": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\raw-body"
+  },
+  "request@2.88.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/request/request",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\request"
+  },
+  "rimraf@3.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/rimraf",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\rimraf"
+  },
+  "safe-buffer@5.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/safe-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\safe-buffer"
+  },
+  "safer-buffer@2.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ChALkeR/safer-buffer",
+    "publisher": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\safer-buffer"
+  },
+  "semicolonize@0.1.0": {
+    "licenses": "WTFPL",
+    "repository": "https://github.com/subzey/semicolonize",
+    "publisher": "Anton Khlynovskiy",
+    "email": "subzey@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\semicolonize"
+  },
+  "send@0.17.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "publisher": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\send"
+  },
+  "serve-static@1.14.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\serve-static"
+  },
+  "setprototypeof@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/wesleytodd/setprototypeof",
+    "publisher": "Wes Todd",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\setprototypeof"
+  },
+  "source-map@0.6.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mozilla/source-map",
+    "publisher": "Nick Fitzgerald",
+    "email": "nfitzgerald@mozilla.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\uglify-js\\node_modules\\source-map"
+  },
+  "sshpk@1.16.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-sshpk",
+    "publisher": "Joyent, Inc",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\sshpk"
+  },
+  "statuses@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/statuses",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\statuses"
+  },
+  "toidentifier@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/toidentifier",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\toidentifier"
+  },
+  "tough-cookie@2.4.3": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/salesforce/tough-cookie",
+    "publisher": "Jeremy Stashewsky",
+    "email": "jstash@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\tough-cookie"
+  },
+  "tunnel-agent@0.6.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/tunnel-agent",
+    "publisher": "Mikeal Rogers",
+    "email": "mikeal.rogers@gmail.com",
+    "url": "http://www.futurealoof.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\tunnel-agent"
+  },
+  "tweetnacl@0.14.5": {
+    "licenses": "Unlicense",
+    "repository": "https://github.com/dchest/tweetnacl-js",
+    "publisher": "TweetNaCl-js contributors",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\tweetnacl"
+  },
+  "type-is@1.6.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\type-is"
+  },
+  "uglify-js@3.6.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/mishoo/UglifyJS2",
+    "publisher": "Mihai Bazon",
+    "email": "mihai.bazon@gmail.com",
+    "url": "http://lisperator.net/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\uglify-js"
+  },
+  "underscore@1.4.4": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/documentcloud/underscore",
+    "publisher": "Jeremy Ashkenas",
+    "email": "jeremy@documentcloud.org",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\underscore"
+  },
+  "unpipe@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/unpipe",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\unpipe"
+  },
+  "uri-js@4.2.2": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/garycourt/uri-js",
+    "publisher": "Gary Court",
+    "email": "gary.court@gmail.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\uri-js"
+  },
+  "utils-merge@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "publisher": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\utils-merge"
+  },
+  "uuid@3.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kelektiv/node-uuid",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\uuid"
+  },
+  "vary@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "publisher": "Douglas Christopher Wilson",
+    "email": "doug@somethingdoug.com",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\vary"
+  },
+  "verror@1.10.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davepacheco/node-verror",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\verror"
+  },
+  "wrappy@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server\\node_modules\\wrappy"
+  }
+}
+

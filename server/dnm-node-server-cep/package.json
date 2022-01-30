@@ -1,0 +1,40 @@
+{
+  "_from": "git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+  "_id": "dnm-node-server-cep@1.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/dnm-node-server-cep",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "dnm-node-server-cep@git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+    "name": "dnm-node-server-cep",
+    "escapedName": "dnm-node-server-cep",
+    "rawSpec": "git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+    "saveSpec": "git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+    "fetchSpec": "https://gitlab%2Bdeploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#dcd0dd5e61b1a62c4349f1523b49a80371b46a40",
+  "_spec": "dnm-node-server-cep@git+https://gitlab+deploy-token-5:96c1tw3NsbDm46Ss8_eD@git.danim.com/ae_scripts/dnm-node-server-cep.git#master",
+  "_where": "C:\\Users\\Danim\\AppData\\Roaming\\Adobe\\CEP\\extensions\\com.danim.mocode.dev\\server",
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "portfinder": "^1.0.20"
+  },
+  "deprecated": false,
+  "description": "Node extension for AE",
+  "main": "index.js",
+  "name": "dnm-node-server-cep",
+  "scripts": {
+    "git": "git add . && git commit -m",
+    "postgit": "git push -u"
+  },
+  "version": "1.1.0"
+}

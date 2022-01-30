@@ -1,0 +1,25 @@
+version: 3
+projects:
+  - xw1: 1
+    xw2: 2
+    xw3: 3
+  - name: xw1
+    eps:
+      - ep1: 1
+        ep2: 2
+        ep3: 3
+      - name: ep1
+        lists:
+          - list1: 1
+            list2: 2
+            list3: 3
+          - name: list1
+            cards:
+              - card1: 1
+                card2: 2
+                card3: 3
+              - title: card1
+                aep: aep
+                xml: xml
+  - name: xw2
+  - name: xw3
